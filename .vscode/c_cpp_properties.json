@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include",
+                "/opt/homebrew/include"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Frameworks",
+                "/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "macos-clang-x64",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+} 

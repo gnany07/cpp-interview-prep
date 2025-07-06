@@ -1,0 +1,19 @@
+{
+    "C_Cpp.default.cppStandard": "c++11",
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.default.intelliSenseMode": "macos-clang-x64",
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "/usr/local/include",
+        "/opt/homebrew/include"
+    ],
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.autocomplete": "default",
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.enhancedColorization": "enabled",
+    "vim.useSystemClipboard": true,
+    "vim.hlsearch": true,
+    "vim.incsearch": true
+} 
